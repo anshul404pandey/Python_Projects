@@ -1,0 +1,57 @@
+date,amount,category,description
+20-07-2024,125.65,Income,Salary
+31-05-2025,999.0,Expense,TRIAL
+31-05-2025,999.0,Expense,"""TRIAL"""
+31-05-2025,999.0,Expense,Trial
+12-01-2025,45000,Income,Salary
+23-01-2025,151,Expense,Groceries
+08-02-2025,500,Income,Freelance
+10-02-2025,1200,Expense,Rent
+14-02-2025,300,Expense,Dining Out
+28-02-2025,60000,Income,Bonus
+02-03-2025,110,Expense,Transport
+05-03-2025,420,Expense,Utilities
+12-03-2025,2500,Income,Refund
+16-03-2025,980,Expense,Shopping
+21-03-2025,221,Expense,Subscription
+25-03-2025,700,Income,Stock Dividend
+30-03-2025,330,Expense,Medical
+02-04-2025,1800,Income,Part-time Job
+05-04-2025,275,Expense,Gym
+10-04-2025,640,Expense,Dining Out
+12-04-2025,4000,Income,Freelance
+15-04-2025,159,Expense,Books
+20-04-2025,850,Expense,Clothes
+25-04-2025,600,Expense,Fuel
+28-04-2025,18000,Income,Salary
+02-05-2025,250,Expense,Pet Supplies
+06-05-2025,1000,Income,Gift
+09-05-2025,290,Expense,Transport
+12-05-2025,370,Expense,Utilities
+15-05-2025,135,Expense,Snacks
+18-05-2025,5200,Income,Tax Refund
+20-05-2025,980,Expense,Electronics
+22-05-2025,160,Expense,Cafe
+25-05-2025,800,Income,Side Hustle
+27-05-2025,600,Expense,Maintenance
+29-05-2025,950,Expense,Insurance
+01-06-2025,47000,Income,Salary
+03-06-2025,125,Expense,Laundry
+05-06-2025,230,Expense,Subscriptions
+07-06-2025,3000,Income,Freelance
+10-06-2025,180,Expense,Gifts
+12-06-2025,700,Expense,Dining Out
+14-06-2025,500,Expense,Fuel
+16-06-2025,2200,Income,Bonus
+18-06-2025,410,Expense,Entertainment
+20-06-2025,100,Expense,Parking
+22-06-2025,140,Expense,Coffee
+24-06-2025,1500,Income,Part-time Job
+26-06-2025,275,Expense,Pet Care
+28-06-2025,320,Expense,Shopping
+30-06-2025,850,Income,Investment Return
+02-07-2025,360,Expense,Household Items
+04-07-2025,240,Expense,Internet
+06-07-2025,190,Expense,Mobile Recharge
+
+
